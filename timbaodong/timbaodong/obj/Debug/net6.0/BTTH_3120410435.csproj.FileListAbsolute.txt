@@ -1,0 +1,15 @@
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\BTTH_3120410435.exe
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\BTTH_3120410435.deps.json
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\BTTH_3120410435.runtimeconfig.json
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\BTTH_3120410435.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\BTTH_3120410435.pdb
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.csproj.AssemblyReference.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.AssemblyInfoInputs.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.AssemblyInfo.cs
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.csproj.CoreCompileInputs.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\refint\BTTH_3120410435.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.pdb
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\BTTH_3120410435.genruntimeconfig.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\ref\BTTH_3120410435.dll

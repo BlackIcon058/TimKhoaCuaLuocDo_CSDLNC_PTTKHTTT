@@ -1,0 +1,15 @@
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\timbaodongtimkhoa.exe
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\timbaodongtimkhoa.deps.json
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\timbaodongtimkhoa.runtimeconfig.json
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\timbaodongtimkhoa.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\bin\Debug\net6.0\timbaodongtimkhoa.pdb
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.csproj.AssemblyReference.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.AssemblyInfoInputs.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.AssemblyInfo.cs
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.csproj.CoreCompileInputs.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\refint\timbaodongtimkhoa.dll
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.pdb
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\timbaodongtimkhoa.genruntimeconfig.cache
+C:\Users\hquan\OneDrive\Máy tính\ESSENTIAL\Hk1 năm 3\CSDL NC\c# bai tap tim bao dong\timbaodong\timbaodong\obj\Debug\net6.0\ref\timbaodongtimkhoa.dll
